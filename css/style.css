@@ -55,6 +55,7 @@ main {
 
 .col img {
     height: 80px;
+    margin-right: 10px;
 }
 
 
@@ -66,5 +67,6 @@ main {
 }
 
 .e-mail {
-    color: aqua;
+    color: #094ed0;
+    font-size: 0.8em;
 }
