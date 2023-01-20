@@ -49,21 +49,20 @@ main {
     padding-right: 10px; 
     margin-right: 40px; 
     width: 280px;
-    height: 82px; 
-    border: 1px solid black;                                   
+    height: 82px;                                    
 }
 
 .col img {
     height: 100%;
+    float: left;
+    margin-right: 15px;
 }
 
 
 /* text */
 .details {
-    display: inline-block;
     margin-top: 0px;
     vertical-align: 20px;
-    padding-left: 10px;
 }
 
 .e-mail {
