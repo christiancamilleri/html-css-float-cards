@@ -22,9 +22,6 @@ section.paragraph {
     text-align: center;
 }
 /* main */
-main {
-    padding-top: 50px;
-}
 
 .clearfix::after {
     content: "";
@@ -38,18 +35,16 @@ main {
 }
 
 .row {
-    padding-bottom: 50px;
     padding-left: 40px;
 }
 
 .col {
     background-color: black;
-    color: white;
-    padding: 0px; 
-    padding-right: 10px; 
+    color: white; 
     margin-right: 40px; 
     width: 280px;
-    height: 82px;                                    
+    height: 82px; 
+    margin-top: 50px;                                   
 }
 
 .col img {
@@ -63,6 +58,7 @@ main {
 .details {
     margin-top: 0px;
     vertical-align: 20px;
+    padding: 10px;
 }
 
 .e-mail {
